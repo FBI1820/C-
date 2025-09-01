@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SESION1.ejer4/1.0.0": {
+        "runtime": {
+          "SESION1.ejer4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SESION1.ejer4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
