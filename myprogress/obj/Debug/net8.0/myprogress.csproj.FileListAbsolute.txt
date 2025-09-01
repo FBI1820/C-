@@ -1,0 +1,14 @@
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\obj\Debug\net8.0\myprogress.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\obj\Debug\net8.0\myprogress.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\obj\Debug\net8.0\myprogress.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\obj\Debug\net8.0\myprogress.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\bin\Debug\net8.0\myprogress.exe
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\bin\Debug\net8.0\myprogress.deps.json
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\bin\Debug\net8.0\myprogress.runtimeconfig.json
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\bin\Debug\net8.0\myprogress.dll
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\bin\Debug\net8.0\myprogress.pdb
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\obj\Debug\net8.0\myprogress.dll
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\obj\Debug\net8.0\refint\myprogress.dll
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\obj\Debug\net8.0\myprogress.pdb
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\obj\Debug\net8.0\myprogress.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Desktop\C#\myprogress\obj\Debug\net8.0\ref\myprogress.dll
